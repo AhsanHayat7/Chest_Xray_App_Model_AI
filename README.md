@@ -85,8 +85,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 - Ahsan Hayat
 - Email: ahsanhayat9071@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/ahsan-hayat-/]
-- GitHub: [https://github.com/AhsanHayat7]
+- LinkedIn: https://www.linkedin.com/in/ahsan-hayat-/
+- GitHub: https://github.com/AhsanHayat7
 
 ## Disclaimer
 This tool is for educational and research purposes only. Always consult with qualified healthcare professionals for medical advice and diagnosis.
