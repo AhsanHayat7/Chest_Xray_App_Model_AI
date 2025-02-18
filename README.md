@@ -63,3 +63,30 @@ project/
 # Saved model weights
 └── README.md
 
+## Key Features
+- Medical-grade image preprocessing
+- Data augmentation for improved generalization
+- Class weight balancing
+- Fine-tuning capabilities
+- Comprehensive evaluation metrics
+- User-friendly interface
+
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Dataset source: [contact me through linkedIn]
+- Medical professionals who validated the results
+- Open-source community for tools and libraries
+
+## Contact
+- Your Name
+- Email: ahsanhayat9071@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/ahsan-hayat-/]
+- GitHub: [https://github.com/AhsanHayat7]
+
+## Disclaimer
+This tool is for educational and research purposes only. Always consult with qualified healthcare professionals for medical advice and diagnosis.
